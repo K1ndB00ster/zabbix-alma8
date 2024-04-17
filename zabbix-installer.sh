@@ -5,6 +5,7 @@ sudo yum -y install dnf
 sudo yum -y install net-tools
 sudo yum -y install iptables-services
 sudo yum -y install wget
+sudo yum -y install pip
 sudo dnf install curl -y
 pip3 install mysql-connector-python==8.0.29
 pip3 install pymysql
